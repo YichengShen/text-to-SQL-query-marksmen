@@ -15,6 +15,8 @@ enhance model performance. Our project suggests that advanced models significant
 for achieving higher accuracy with more complex models and additional resources.
 
 ## Data and features
+There are 7,000 training data and 1,034 testing data.
+
 ### Sample Data - question and query
 ```
 {'question': 'How many heads of the departments are older than 56 ?',
