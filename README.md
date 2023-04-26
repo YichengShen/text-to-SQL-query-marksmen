@@ -16,6 +16,7 @@ for achieving higher accuracy with more complex models and additional resources.
 
 ## Data and features
 ### Sample Data - question and query
+```
 {'question': 'How many heads of the departments are older than 56 ?',
  'question_tok': ['How',
   'many',
@@ -48,9 +49,11 @@ for achieving higher accuracy with more complex models and additional resources.
   'group': [[]],
   'order': [[], [], -1],
   'special': 0}}
+```
 
  ### Sample data - db table
  
+ ```
  {'col_map': [[-1, '*'],
   [0, 'bid'],
   [0, 'business id'],
@@ -90,7 +93,7 @@ for achieving higher accuracy with more complex models and additional resources.
   [6, 'likes'],
   [6, 'year'],
   [6, 'month']]
-
+```
 
 ## Non-DL and base DL models
 1. [Random forest model & RNN-based model](./non_dl_base_dl.ipynb)
