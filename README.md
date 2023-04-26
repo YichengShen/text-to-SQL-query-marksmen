@@ -27,3 +27,7 @@ for achieving higher accuracy with more complex models and additional resources.
 
 ### GPT-3.5-turbo
 1. [GPT-3.5-turbo](./gpt3.5_turbo_with_db.ipynb)
+
+## Other files
+1. The `scripts` folder contains a Python script for evaluation and a Python script for preprocessing. They are adapted from and modified based on [the scripts in the Spider dataset](https://github.com/taoyds/spider).
+2. The `evaluations` folder contains some notebooks in which we evaluated the accuracy of the predictions made by GPT-3.5-turbo.
